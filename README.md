@@ -10,4 +10,4 @@ A repository recording the root cause analysis of the crashes I found.
 | CVE-2019-7581 | libming | 50098 | listswf | Memory Allocation Failure in parseSWF_ACTIONRECORD | TODO |
 | CVE-2019-7582 | libming | 50098 | listswf | Memory Allocation Failure in readBytes| TODO |
 | CVE-2019-7663 | libtiff | 56a19 | tiffcp | Segment Fault in cpSeparateBufToContigBuf | TODO |
-| CVE-2022-22844 | libtiff | cd57b | tiffset | Global Buffer Overflow in \_TIFFmemcpy | [Link](CVE-2022-22844.md) |
+| CVE-2022-22844 | libtiff | cd57b | tiffset | Global Buffer Overflow in \_TIFFmemcpy | [Link](analysis/CVE-2022-22844.md) |
